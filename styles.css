@@ -73,7 +73,7 @@ p {
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 250px;
+  top: 400px;
   width: 15%;
 }
 .mountain {
